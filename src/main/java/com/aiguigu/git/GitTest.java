@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hahahah");
         System.out.println("huohuohuo");
         System.out.println("你又是什么牛马");
+        System.out.println("huohuohuo");
+        System.out.println("你是什么牛马");
     }
 }
