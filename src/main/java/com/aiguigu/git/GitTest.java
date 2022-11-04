@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("huohuohuo");
         System.out.println("你是什么牛马");
         System.out.println("你在狗叫什么啊？");
+        System.out.println("怎么有人急眼了呢？");
     }
 }
